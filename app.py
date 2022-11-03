@@ -32,3 +32,4 @@ if result != -1:
 else:
 	print("Element is not present in array")
 print("my name is apoorva")
+print("how was your day")
